@@ -1,4 +1,4 @@
-#https://neetcode.io/problems/duplicate-integer/question?list=neetcode150
+# https://neetcode.io/problems/duplicate-integer/question?list=neetcode150
 class Solution:
     def hasDuplicate(self, nums: list[int]) -> bool:
         s = {}

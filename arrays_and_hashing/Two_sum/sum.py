@@ -1,4 +1,4 @@
-#https://neetcode.io/problems/two-integer-sum/question?list=neetcode150
+# https://neetcode.io/problems/two-integer-sum/question?list=neetcode150
 class Solution:
     def twoSum(self, nums, target): # nums: List[int], target: int ->  List[int]
         for i1 in range(len(nums)-1):

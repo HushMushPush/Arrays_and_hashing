@@ -1,4 +1,4 @@
-#https://neetcode.io/problems/is-anagram/question?list=neetcode150
+# https://neetcode.io/problems/is-anagram/question?list=neetcode150
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         a = {}
